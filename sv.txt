@@ -1,0 +1,6 @@
+5
+Nguyen The Huong        10  10.30
+Le Xuan Quynh           12   9.50
+Nguyen Dinh Loc         20   8.90
+Tran Xuan Dai           15   6.80
+Le Van Bac              18   5.40
